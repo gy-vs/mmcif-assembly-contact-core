@@ -1,0 +1,1 @@
+# mmCIF assembly contact core
